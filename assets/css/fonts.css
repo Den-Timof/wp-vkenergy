@@ -1,0 +1,60 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Light.ttf");
+  font-weight: 300; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Regular.ttf");
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-SemiBold.ttf");
+  font-weight: 600; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Bold.ttf");
+  font-weight: 700; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+  font-weight: 800; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Light.ttf");
+  font-weight: 300; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Regular.ttf");
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-SemiBold.ttf");
+  font-weight: 600; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-Bold.ttf");
+  font-weight: 700; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Open_Sans/OpenSans-ExtraBold.ttf");
+  font-weight: 800; }
+
+/**
+ * Calibri Fonts
+ */
+@font-face {
+  font-family: 'Calibri Bold';
+  src: url("http://localhost:3000/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Calibri/Calibri-Bold.ttf"); }
+
+@font-face {
+  font-family: 'Calibri Bold';
+  src: url("http://localhost:83/weblancer/Dmitriy_Malahov/energy/energy_cms/wp-content/themes/energy-wc/assets/fonts/Calibri/Calibri-Bold.ttf"); }

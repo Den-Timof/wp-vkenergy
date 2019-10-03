@@ -1,0 +1,236 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .entry-title, .woocommerce-products-header__title {
+      font-size: 22px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .header-wrapper .sticky-row .header__logotype {
+        margin: 0;
+        padding: 10px 0;
+        max-height: 100%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .header-wrapper .feedback-row .feedback-col .feedback-cell {
+          margin: 0 5px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+              .menu-top._position .menu-fixed-menu-container .menu > .menu-item a {
+                padding-left: 5px;
+                padding-right: 5px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .footer-wrapper .footer__logotype {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-item-align: end;
+            align-self: flex-end;
+        height: 100%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .footer-wrapper .footer__logotype .custom-logo-link {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -ms-flex-item-align: end;
+              align-self: flex-end; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .footer-wrapper .footer-row .footer-subrow._1 {
+        padding-top: 20px;
+        padding-bottom: 35px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .footer-wrapper .footer-row .footer-subrow._2 .footer-list-wrap._1:before {
+          top: 55%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .footer-wrapper .footer-row .footer-subrow .footer-contact-col {
+        padding-left: 55px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .footer-wrapper .footer-list li {
+          padding-left: 0px;
+          margin-bottom: 5px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .copyright__footer {
+      margin-top: 40px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .main-row {
+      padding: 25px 0; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .slider-row .main-slider {
+      height: 350px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .slider-row .main-slider .slide {
+        height: 350px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .slider-row .main-slider .slide .slide-img {
+        height: 85%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .slider-row .main-slider .slide .slide-img img {
+        height: 100%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .slider-row .main-slider .slide .slide-text {
+          width: 442px;
+          height: 323px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .slider-row .main-slider .slide .slide-text img {
+          height: 100%;
+          margin: 0 auto; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .slider-row .main-slider .slide .slide-text p {
+            top: 34%;
+            width: 50%;
+            font-size: 12px;
+            left: 25%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .slider-row .main-slider .slide .slide-button {
+          bottom: 7%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .products-row .catalog-item-col .catalog-item-block {
+      padding-left: 5px;
+      padding-right: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .special-row .sertificate-list-wrap {
+        width: 390px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .contacts-row .contact-main-col .contact-col-cont {
+        padding-left: 30px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .contacts-row .contact-main-col .contact-col-cont a, .contacts-row .contact-main-col .contact-col-cont ul {
+        position: relative; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .contacts-row .contact-main-col .contact-col-cont a:before, .contacts-row .contact-main-col .contact-col-cont ul:before {
+        content: '';
+        left: -25px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .contacts-row .contact-main-email a:before {
+            top: 3px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .contacts-row .contact-main-phone ul:before {
+            top: 30px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .contacts-row .contact-main-phone ul a {
+            font-size: 16px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .map-row {
+      padding: 0; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .reviews-wrapper .review-block .review-img img {
+        max-height: 315px;
+        width: auto; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .reviews-wrapper .review-block .review-content .review-logo-img img {
+            margin: 10px auto 20px;
+            width: 100%;
+            max-width: 100%;
+            max-height: 100%; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .reviews-wrapper .review-block .review-subcontent .review-title {
+          font-size: 16px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .reviews-wrapper .review-block .review-subcontent .review-text {
+          font-size: 12px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .service-block {
+      width: 450px;
+      height: 275px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .service-sidebar-list, .sidebar-list {
+      padding: 20px 10px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .service-sidebar-list .sidebar-title, .sidebar-list .sidebar-title {
+        font-size: 22px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .service-sidebar-list li, .sidebar-list li {
+        padding-left: 10px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .service-sidebar-list li a, .sidebar-list li a {
+          font-size: 12px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ._stocks-list {
+      padding-top: 22px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ._stocks-list .stocks-list-wrap {
+      width: 400px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      ._stocks-list .stocks-list-wrap .entry-title {
+        width: 260px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    ul.other-stock {
+      width: 410px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    a#download-price-list {
+      width: 150px;
+      line-height: 3em;
+      font-size: 12px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .catalog-wrapper .products .product {
+        width: 30.7966666667% !important;
+        margin-right: 2.5% !important;
+        height: auto; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .catalog-wrapper .products .product .woocommerce-loop-product__title {
+          min-height: 120px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .products .product .woocommerce-loop-product__title, .products .product .woocommerce-loop-category__title {
+        margin: 20px 15px;
+        font-size: 14px !important; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+      .product .woocommerce-product-gallery .woocommerce-product-gallery__image a img {
+        width: 85%;
+        height: auto; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .product .woocommerce-tabs .tabs li {
+          width: 150px; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+          .product .woocommerce-tabs .tabs li a {
+            font-size: 12px;
+            padding: 0;
+            line-height: 3em; } }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+        .product .woocommerce-description .cart-wrap .vkenergy_button {
+          padding: 10px 25px; } }
+

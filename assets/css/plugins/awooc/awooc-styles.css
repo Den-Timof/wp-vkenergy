@@ -1,0 +1,149 @@
+.awooc-hide {
+	display: none;
+}
+
+.blockUI:before,
+.awooc-hidden-data {
+	display: none !important;
+}
+
+#awooc-custom-order-button {
+	position: relative;
+}
+
+.awooc-custom-order-wrap {
+	padding: 1.125rem;
+}
+
+.awooc-form-custom-order-img {
+	text-align: center;
+}
+
+.awooc-form-custom-order-img img {
+	width: 100%;
+	height: auto;
+}
+
+.awooc-custom-order-wrap .wpcf7-form-control {
+	width: 100%;
+	margin-bottom: 0.875rem;
+	padding: .6180469716em;
+	background-color: #f2f2f2;
+	color: #43454b;
+	outline: 0;
+	border: 0;
+	box-sizing: border-box;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .125);
+}
+
+.awooc-col {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 0;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.awooc-col.columns-left {
+	text-align: left;
+}
+
+.awwoc-close {
+	font-size: 35px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	line-height: 30px;
+	width: 30px;
+	height: 30px;
+	background: rgba(0, 0, 0, 0.00);
+}
+
+.awwoc-close:hover {
+	cursor: pointer;
+}
+
+.cssload-container * {
+	box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.cssload-container {
+	margin: 0 auto 0 auto;
+	display: inline-block;
+	vertical-align: middle;
+	position: absolute;
+	left: 4px;
+	top: 32%;
+}
+
+
+.cssload-spinner {
+	width: 100%;
+	height: 17px;
+	text-align: center;
+	position: absolute;
+	left: 2px;
+	top: 6px;
+}
+
+.cssload-speeding-wheel {
+	width: 17px;
+	height: 17px;
+	margin: 0 auto;
+	border: 1px solid rgb(204, 204, 204);
+	border-radius: 50%;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	animation: cssload-spin 575ms infinite linear;
+	-o-animation: cssload-spin 575ms infinite linear;
+	-ms-animation: cssload-spin 575ms infinite linear;
+	-webkit-animation: cssload-spin 575ms infinite linear;
+	-moz-animation: cssload-spin 575ms infinite linear;
+}
+
+
+@keyframes cssload-spin {
+	100% {
+			transform: rotate(360deg);
+			transform: rotate(360deg);
+	}
+}
+
+@-o-keyframes cssload-spin {
+	100% {
+			-o-transform: rotate(360deg);
+			transform: rotate(360deg);
+	}
+}
+
+@-ms-keyframes cssload-spin {
+	100% {
+			-ms-transform: rotate(360deg);
+			transform: rotate(360deg);
+	}
+}
+
+@-webkit-keyframes cssload-spin {
+	100% {
+			-webkit-transform: rotate(360deg);
+			transform: rotate(360deg);
+	}
+}
+
+@-moz-keyframes cssload-spin {
+	100% {
+			-moz-transform: rotate(360deg);
+			transform: rotate(360deg);
+	}
+}
+
+@media (min-width: 768px) {
+	.awooc-col {
+			width: 49%;
+			padding: 0.875rem 0.875rem;
+	}
+}

@@ -1,0 +1,37 @@
+@media (min-height: 800px) {
+    .kama_breadcrumbs {
+      display: block; } }
+
+@media (min-height: 800px) {
+    .modal .modal-dialog {
+      top: 15%; } }
+
+@media (min-height: 800px) {
+    .modal.modal-manager-1 .modal-dialog {
+      top: 30% !important; } }
+
+@media (min-height: 800px) {
+    .modal .modal-dialog {
+      top: 15%; } }
+
+@media (min-height: 800px) {
+    .modal.modal-manager-1 .modal-dialog {
+      top: 30% !important; } }
+
+@media (max-width: 450px) {
+      .product .woocommerce-description #awooc-custom-order-button {
+        float: none; } }
+
+@media (max-width: 450px) {
+        .product .woocommerce-description .cart-wrap .vkenergy_button {
+          float: none; } }
+
+@media (min-height: 800px) {
+      .blockUI.blockPage .awooc-form-custom-order {
+        top: 15% !important; } }
+
+@media (max-width: 991.98px) and (orientation: landscape) {
+      .cookcodesmenu-bar .cookcodesmenu_menu .cookcodesmenu_nav {
+        height: 210px;
+        overflow-y: scroll; } }
+
